@@ -1,12 +1,12 @@
-# Deck of playing cards by B. P. Grimaud, Paris
+# 19th century deck of playing cards
 
-This is a set of 19th century French playing cards from the Smithsonian collection.
+This is a set of 19th century French playing cards from the [Smithsonian](https://www.si.edu) collection.
 
-Designed by E. Le Tellier
+Designed by E. Le Tellier and published by [B. P. Grimaud, Paris](https://en.m.wikipedia.org/wiki/Grimaud_(company))
 
 Images have been cleaned up, fixed and cropped.
 
-![The Grimaud deck](img/all.jpg)
+![The deck](img/all.jpg)
 
 [Original Source][def]
 
